@@ -2,6 +2,8 @@
 
 node index.js --action list => https://ibb.co/88Pxxd8
 
+<img src="" width="600" height="300"/>
+
 node index.js --action get --id 5 => https://ibb.co/ZBJ7WBN
 
 node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-22 => https://ibb.co/GW79Gcn
